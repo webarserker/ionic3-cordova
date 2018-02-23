@@ -1,0 +1,45 @@
+page-tab-discovery {
+  .card{
+    margin: 0;
+    margin-bottom: 10px;
+    width: 100%;
+    box-shadow: none;
+  }
+  .card h2{
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  .card p{
+    color: #464646;
+    font-size: 1.2rem;
+  }
+  .card-content{
+    padding: 6px 0 2px 10px;
+  }
+  .card .note{
+    padding-left: 5px;
+    font-size: 1.1rem;
+  }
+  .item{
+    padding-left: 10px;
+  }
+  .item p {
+    color: #999999;
+  }
+  .item ion-avatar{
+    margin: 0 !important;
+    margin-right: 5px !important;
+    margin-bottom: 3px !important;
+    min-height: 20px;
+    min-width: 20px;
+  }
+  .item ion-avatar img{
+    width: 20px;
+    height: 20px;
+  }
+  .more_button{
+    float: right;
+    padding-top: 3px;
+  }
+}
